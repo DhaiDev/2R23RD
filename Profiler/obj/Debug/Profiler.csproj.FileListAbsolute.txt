@@ -1,0 +1,14 @@
+C:\Users\ndscd\Desktop\ASP\MovieAPI\Profiler\Profiler\obj\Debug\Profiler.csproj.AssemblyReference.cache
+C:\Users\ndscd\Desktop\ASP\MovieAPI\Profiler\Profiler\obj\Debug\Profiler.csproj.SuggestedBindingRedirects.cache
+C:\Users\ndscd\Desktop\ASP\MovieAPI\Profiler\Profiler\obj\Debug\Profiler.Form1.resources
+C:\Users\ndscd\Desktop\ASP\MovieAPI\Profiler\Profiler\obj\Debug\Profiler.Properties.Resources.resources
+C:\Users\ndscd\Desktop\ASP\MovieAPI\Profiler\Profiler\obj\Debug\Profiler.csproj.GenerateResource.cache
+C:\Users\ndscd\Desktop\ASP\MovieAPI\Profiler\Profiler\obj\Debug\Profiler.csproj.CoreCompileInputs.cache
+C:\Users\ndscd\Desktop\ASP\MovieAPI\Profiler\Profiler\bin\Debug\Profiler.exe.config
+C:\Users\ndscd\Desktop\ASP\MovieAPI\Profiler\Profiler\bin\Debug\Profiler.exe
+C:\Users\ndscd\Desktop\ASP\MovieAPI\Profiler\Profiler\bin\Debug\Profiler.pdb
+C:\Users\ndscd\Desktop\ASP\MovieAPI\Profiler\Profiler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ndscd\Desktop\ASP\MovieAPI\Profiler\Profiler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ndscd\Desktop\ASP\MovieAPI\Profiler\Profiler\obj\Debug\Profiler.csproj.CopyComplete
+C:\Users\ndscd\Desktop\ASP\MovieAPI\Profiler\Profiler\obj\Debug\Profiler.exe
+C:\Users\ndscd\Desktop\ASP\MovieAPI\Profiler\Profiler\obj\Debug\Profiler.pdb
